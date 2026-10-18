@@ -1,0 +1,11 @@
+{
+  "port": 18787,
+  "mode": "auto",
+  "default_model": "gemini-2.5-pro",
+  "vertex_api_version": "v1beta1",
+  "vertex_project_id": "",
+  "vertex_location": "global",
+  "vertex_fallback_model": "gemini-2.5-pro",
+  "openai_compat_base_url": "https://openrouter.ai/api/v1",
+  "api_key": ""
+}
